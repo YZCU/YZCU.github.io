@@ -1,0 +1,8 @@
+@inproceedings{xiao2022gnnvsr,
+  title={Learning an Intrinsic Graph Neural Network for Sartellite Video Super-Resolution},
+  author={Xiao, Yi and Su, Xin and Yuan, Qiangqiang},
+  booktitle={IGARSS 2022-2022 IEEE International Geoscience and Remote Sensing Symposium},
+  pages={3751--3753},
+  year={2022},
+  organization={IEEE}
+}

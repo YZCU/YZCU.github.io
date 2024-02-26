@@ -1,0 +1,8 @@
+@inproceedings{xiao2021recurrent,
+  title={A Recurrent Refinement Network for Satellite Video Super-Resolution},
+  author={Xiao, Yi and Su, Xin and Yuan, Qiangqiang},
+  booktitle={2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS},
+  pages={3865--3868},
+  year={2021},
+  organization={IEEE}
+}

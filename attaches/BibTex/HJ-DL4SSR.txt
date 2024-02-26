@@ -1,0 +1,9 @@
+@article{HE2023101812,
+author = {Jiang He and Qiangqiang Yuan and Jie Li and Yi Xiao and Denghong Liu and Huanfeng Shen and Liangpei Zhang},
+title = {Spectral super-resolution meets deep learning: Achievements and challenges},
+journal = {Information Fusion},
+volume = {97},
+pages = {101812},
+year = {2023},
+publisher={Elsevier}
+}

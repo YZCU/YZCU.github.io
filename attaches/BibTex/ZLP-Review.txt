@@ -1,0 +1,19 @@
+@article{张良培2022数据驱动的多源遥感信息融合研究进展,
+  title={数据驱动的多源遥感信息融合研究进展},
+  author={张良培 and 何江 and 杨倩倩 and 肖屹 and 袁强强},
+  journal={Cehui Xuebao},
+  volume={51},
+  number={7},
+  pages={1317},
+  year={2022},
+  publisher={Surveying and Mapping Press}
+}
+
+@article{liangpei2022data,
+  title={Data-driven multi-source remote sensing data fusion: Progress and challenges},
+  author={Liangpei, ZHANG and Jiang, HE and Qianqian, YANG and Yi, XIAO and Qiangqiang, YUAN},
+  journal={Acta Geodaetica et Cartographica Sinica},
+  volume={51},
+  number={7},
+  pages={1317}
+}

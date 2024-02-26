@@ -1,0 +1,9 @@
+@article{xiao2022mstt,
+title = {Space-time super-resolution for satellite video: A joint framework based on multi-scale spatial-temporal transformer},
+author = {Yi Xiao and Qiangqiang Yuan and Jiang He and Qiang Zhang and Jing Sun and Xin Su and Jialian Wu and Liangpei Zhang},
+journal = {International Journal of Applied Earth Observation and Geoinformation},
+volume = {108},
+pages = {102731},
+year = {2022}，
+publisher={Elsevier}
+}

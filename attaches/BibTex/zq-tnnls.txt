@@ -1,0 +1,8 @@
+@article{zhang2023_TNNLS,
+     author = {Q. {Zhang} and Y. {Zheng} and Q. {Yuan} and M. {Song} and H. {Yu} and Y. {Xiao}},
+     title = {Hyperspectral image denoising: {From} model-driven, data-driven, to model-data-driven},
+     journal = {IEEE Trans. Neural Netw. Learn. Syst.},
+     volume = {},
+     pages = {1-21},
+     year = {Jun. 2023},
+}

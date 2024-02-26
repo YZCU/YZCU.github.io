@@ -1,0 +1,7 @@
+@inproceedings{arad2022ntire,
+  title={Ntire 2022 spectral recovery challenge and data set},
+  author={Arad, Boaz and Timofte, Radu and Yahel, Rony and Morag, Nimrod and Bernat, Amir and Cai, Yuanhao and Lin, Jing and Lin, Zudi and Wang, Haoqian and Zhang, Yulun and others},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={863--881},
+  year={2022}
+}
