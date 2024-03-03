@@ -1,0 +1,13 @@
+@Article{rs14133108,
+AUTHOR = {Chen, Yuzeng and Tang, Yuqi and Han, Te and Zhang, Yuwei and Zou, Bin and Feng, Huihui},
+TITLE = {RAMC: A Rotation Adaptive Tracker with Motion Constraint for Satellite Video Single-Object Tracking},
+JOURNAL = {Remote Sensing},
+VOLUME = {14},
+YEAR = {2022},
+NUMBER = {13},
+ARTICLE-NUMBER = {3108},
+URL = {https://www.mdpi.com/2072-4292/14/13/3108},
+ISSN = {2072-4292},
+ABSTRACT = {Single-object tracking (SOT) in satellite videos (SVs) is a promising and challenging task in the remote sensing community. In terms of the object itself and the tracking algorithm, the rotation of small-sized objects and tracking drift are common problems due to the nadir view coupled with a complex background. This article proposes a novel rotation adaptive tracker with motion constraint (RAMC) to explore how the hybridization of angle and motion information can be utilized to boost SV object tracking from two branches: rotation and translation. We decouple the rotation and translation motion patterns. The rotation phenomenon is decomposed into the translation solution to achieve adaptive rotation estimation in the rotation branch. In the translation branch, the appearance and motion information are synergized to enhance the object representations and address the tracking drift issue. Moreover, an internal shrinkage (IS) strategy is proposed to optimize the evaluation process of trackers. Extensive experiments on space-born SV datasets captured from the Jilin-1 satellite constellation and International Space Station (ISS) are conducted. The results demonstrate the superiority of the proposed method over other algorithms. With an area under the curve (AUC) of 0.785 and 0.946 in the success and precision plots, respectively, the proposed RAMC achieves optimal performance while running at real-time speed.},
+DOI = {10.3390/rs14133108}
+}
