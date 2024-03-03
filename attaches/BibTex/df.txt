@@ -1,0 +1,10 @@
+@ARTICLE{9803284,
+  author={Chen, Yuzeng and Tang, Yuqi and Yin, Zhiyong and Han, Te and Zou, Bin and Feng, Huihui},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Single Object Tracking in Satellite Videos: A Correlation Filter-Based Dual-Flow Tracker}, 
+  year={2022},
+  volume={15},
+  number={},
+  pages={6687-6698},
+  keywords={Correlation;Videos;Remote sensing;Satellites;Object tracking;Adaptation models;Optical filters;Correlation filter (CF);motion model;satellite video (SV);state-aware indicator (SAI);single object tracking (SOT)},
+  doi={10.1109/JSTARS.2022.3185328}}
