@@ -1,9 +1,0 @@
-@article{LIU202392,
-title = {An efficient unfolding network with disentangled spatial-spectral representation for hyperspectral image super-resolution},
-author = {Denghong Liu and Jie Li and Qiangqiang Yuan and Li Zheng and Jiang He and Shuheng Zhao and Yi Xiao},
-journal = {Information Fusion},
-volume = {94},
-pages = {92-111},
-year = {2023},
-publisher={Elsevier}
-}
