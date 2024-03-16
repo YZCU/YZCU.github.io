@@ -1,0 +1,10 @@
+@INPROCEEDINGS{9883323,
+  author={Han, Te and Tang, Yuqi and Chen, Yuzeng},
+  booktitle={IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={Heterogeneous Image Change Detection Based on Two-Stage Joint Feature Learning}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={3215-3218},
+  keywords={Representation learning;Image segmentation;Laser radar;Geoscience and remote sensing;Feature extraction;Optical imaging;Radar polarimetry;Change detection;heterogeneous image;joint feature learning},
+  doi={10.1109/IGARSS46834.2022.9883323}}
