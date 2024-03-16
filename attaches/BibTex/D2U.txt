@@ -1,9 +1,0 @@
-@article{xiao2023d2u,
-title = {From degrade to upgrade: Learning a self-supervised degradation guided adaptive network for blind remote sensing image super-resolution},
-author = {Yi Xiao and Qiangqiang Yuan and Kui Jiang and Jiang He and Yuan Wang and Liangpei Zhang},
-journal = {Information Fusion},
-volume = {96},
-pages = {297-311},
-year = {2023},
-publisher={Elsevier}
-}
