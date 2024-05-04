@@ -1,0 +1,10 @@
+@ARTICLE{10517637,
+  author={Han, Te and Tang, Yuqi and Chen, Yuzeng and Yang, Xin and Guo, Yuqiang and Jiang, Shujing},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={SDC-GAE: Structural Difference Compensation Graph Autoencoder for Unsupervised Multimodal Change Detection}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Remote sensing;Feature extraction;Imaging;Adaptation models;Satellite broadcasting;Robustness;Monitoring;Multimodal change detection;multi-source data;structural feature;structured graph;graph convolutional network;structural difference;compensation},
+  doi={10.1109/TGRS.2024.3396141}}
