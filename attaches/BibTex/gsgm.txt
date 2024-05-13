@@ -1,0 +1,14 @@
+@article{doi:10.1080/17538947.2024.2347457,
+author = {Te Han, Yuqi Tang, Yuzeng Chen, Bin Zou and Huihui Feng},
+title = {Global structure graph mapping for multimodal change detection},
+journal = {International Journal of Digital Earth},
+volume = {17},
+number = {1},
+pages = {2347457},
+year = {2024},
+publisher = {Taylor \& Francis},
+doi = {10.1080/17538947.2024.2347457},
+URL = {https://doi.org/10.1080/17538947.2024.2347457},
+eprint = {https://doi.org/10.1080/17538947.2024.2347457}
+}
+
